@@ -1,0 +1,53 @@
+.section-marginTop{
+    margin-top: 30px;
+}
+
+.section-title{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: black !important;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.section-subtitle{
+    margin-bottom: 30px;
+    font-family: 'Hind Siliguri', sans-serif;
+    color: #6E6E6E !important;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.rights-text{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: white !important;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.pad5LeftRight{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.f16Light{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 18px;
+}
+
+.f24Light{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 24px;
+    color: red!important;
+}
+
+.f22Light{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 22px;
+    color: green!important;
+}
+
+.notice{
+    font-size: 18px;
+    font-family: 'Hind Siliguri', sans-serif;
+    color: red!important;
+}
